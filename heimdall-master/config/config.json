@@ -1,0 +1,10 @@
+[
+    {
+        "Name"      : "Monitor",
+        "Port"      : 1234,
+        "Remote"    : 5678,
+        "Limit"     : 2.0,
+        "Password"  : "password",
+        "Remark"    : ""
+    }
+]
